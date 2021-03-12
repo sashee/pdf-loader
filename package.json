@@ -6,7 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "repository": "github:sashee/pdf-loader",
+  "author": {
+    "name": "Tamas Sallai",
+    "url": "https://advancedweb.hu/"
+  },
   "license": "ISC",
   "dependencies": {
     "find-cache-dir": "^3.3.1",
