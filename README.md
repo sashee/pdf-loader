@@ -2,6 +2,10 @@
 
 This loader gets a PDF file, converts it to images, and emit those files. It also returns the dimensions for each page.
 
+## Prerequisites
+
+It calls the ```pdftocairo``` command which must be installed prior to using this plugin. It is included in [Poppler](https://poppler.freedesktop.org/).
+
 ## Installation
 
 ```
