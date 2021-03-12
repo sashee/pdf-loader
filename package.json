@@ -1,7 +1,11 @@
 {
   "name": "pdf-loader",
   "version": "1.0.1",
-  "description": "",
+  "description": "A WebPack loader to convert a PDF into images",
+  "keywords": [
+    "webpack",
+    "pdf"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
