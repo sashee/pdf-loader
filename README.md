@@ -1,4 +1,4 @@
-# PDF to image loader for WebPack
+# PDF to image loader for Webpack
 
 This loader gets a PDF file, converts it to images, and emit those files. It also returns the dimensions for each page.
 
